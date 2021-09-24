@@ -1,0 +1,18 @@
+.conteudo {
+    display: flex;
+  }
+  
+  :root {
+    --primaria: #58a4b0;
+    --secundaria: #3e294a;
+    --secundaria-ativa: #cccccc;
+    --fundo: #ffffff;
+    --fundo-detalhes: #ececec7a;
+  }
+
+body{
+  background-image: url("./img/background.jpg"); 
+  background-size: cover;
+  background-position: center;
+
+}
